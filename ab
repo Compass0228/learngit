@@ -1,0 +1,2 @@
+ab.
+git --git-dir="/e/git-practice/lg/.git" --work-tree="/e/git-practice/lg/" fetch origin master
